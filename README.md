@@ -21,6 +21,8 @@ __A simple kanaban board for managing task.__
 
 * __Install libraries:__ `pip install -r requirements.txt`
 
+* __Run migrations:__ `python manage.py makemigrations` & `python manage.py migrate`
+
 * __Run project__
     * `cd kanaban-board/backend`
         * `python manage.py runserver`
